@@ -1,0 +1,1 @@
+print("Flink is for streaming")
